@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Ardee.dev — Putu Ardi Sudarmika, Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#064663"/>
+      <stop offset="100%" stop-color="#03242f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="120" r="220" fill="#ffe600" fill-opacity="0.10"/>
+  <rect x="90" y="196" width="96" height="8" rx="4" fill="#ffe600"/>
+  <text x="90" y="300" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#ffffff">Putu Ardi Sudarmika</text>
+  <text x="90" y="372" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#ffe600">Frontend Developer</text>
+  <text x="90" y="432" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#ffffff" fill-opacity="0.62">React · Next.js · Tailwind CSS</text>
+  <text x="90" y="540" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#ffffff" fill-opacity="0.42">Bali, Indonesia — ardee.dev</text>
+</svg>
